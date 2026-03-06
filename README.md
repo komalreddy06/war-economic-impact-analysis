@@ -25,3 +25,16 @@ GDP change, and war duration.
 - Pairplot relationships
 
 ## Project Structure
+war-economic-impact-analysis
+│
+├── data
+│   └── war_economic_impact_dataset.csv
+│
+├── notebooks
+│   └── war_analysis.ipynb
+│
+├── images
+│   └── heatmap.png
+│
+├── README.md
+└── requirements.txt
